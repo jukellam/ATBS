@@ -1,0 +1,10 @@
+2021-04-16 15:29:07,493 - DEBUG - Start of Program
+2021-04-16 15:29:18,602 - DEBUG - Start of Program
+2021-04-16 15:29:18,604 - DEBUG - Start of factorial(5)
+2021-04-16 15:29:18,604 - DEBUG - i is 1, total is 1
+2021-04-16 15:29:18,604 - DEBUG - i is 2, total is 2
+2021-04-16 15:29:18,605 - DEBUG - i is 3, total is 6
+2021-04-16 15:29:18,605 - DEBUG - i is 4, total is 24
+2021-04-16 15:29:18,605 - DEBUG - i is 5, total is 120
+2021-04-16 15:29:18,605 - DEBUG - Return value is 120
+2021-04-16 15:29:18,606 - DEBUG - End of program
